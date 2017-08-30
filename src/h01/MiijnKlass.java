@@ -4,7 +4,7 @@ public class MiijnKlass {
 
 
     public static void main(String[] args) {
-        System.out.println("Hallo daar lolzz");
+        System.out.println("Hallo daar");
     }
 
 
